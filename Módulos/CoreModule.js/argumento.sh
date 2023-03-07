@@ -1,0 +1,1 @@
+node argumento.js nome=Junior idade=18

@@ -1,0 +1,1 @@
+node index.js --nome=Junior --profissao=Dev
